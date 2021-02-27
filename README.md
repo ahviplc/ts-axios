@@ -7,6 +7,10 @@
 
 > https://gitee.com/ahviplc/ts-axios.git
 
+> https://github.com/ahviplc/ts-axios
+
+> https://github.com/ahviplc/ts-axios.git
+
 ```markdown
 https://github.com/alexjoverm/typescript-library-starter
 

@@ -12,7 +12,8 @@
   "author": "LC <ahlc@sina.cn>",
   "repository": {
     "type": "git",
-    "url": "https://gitee.com/ahviplc/ts-axios"
+    "url": "https://gitee.com/ahviplc/ts-axios",
+    "url": "https://github.com/ahviplc/ts-axios"
   },
   "license": "MIT",
   "engines": {
