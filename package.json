@@ -1,7 +1,7 @@
 {
   "name": "ts-axios",
   "version": "0.1.0",
-  "description": "使用ts重构axios库.与官方axios一致.the ts-axios for you.",
+  "description": "使用ts重构axios库.与官方axios一致.the ts-axios library for you.",
   "keywords": ["axios","ts","typescript","ts-axios"],
   "main": "dist/ts-axios.umd.js",
   "module": "dist/ts-axios.es5.js",

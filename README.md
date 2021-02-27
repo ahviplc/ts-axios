@@ -1,6 +1,6 @@
 # ts-axios
 
-> 使用ts重构axios库.与官方axios一致.
+> 使用ts重构axios库.与官方axios一致.the ts-axios library for you.
 
 仓库地址：
 > https://gitee.com/ahviplc/ts-axios
