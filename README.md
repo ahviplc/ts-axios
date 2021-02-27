@@ -1,3 +1,40 @@
+# ts-axios
+
+> 使用ts重构axios库.与官方axios一致.
+
+仓库地址：
+> https://gitee.com/ahviplc/ts-axios
+
+> https://gitee.com/ahviplc/ts-axios.git
+
+```markdown
+https://github.com/alexjoverm/typescript-library-starter
+
+https://github.com/phggg/ts-axios
+https://hub.fastgit.org/phggg/ts-axios
+
+https://github.com/JustForLucky/ts-axios
+https://hub.fastgit.org/JustForLucky/ts-axios
+```
+
+# 安装依赖
+```markdown
+1. 使用yarn
+yarn
+   
+2. 执行
+npm run dev
+ 
+可访问:
+Server listening on http://localhost:8000
+
+3. 打包
+npm run build
+
+4. 打包并发布到npm
+npm run pub
+```
+
 # TypeScript library starter
 
 [![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
